@@ -6,7 +6,7 @@
 
 The logo has been designed with the goal of being easily manufacturable with a traditional PCB silkscreen process.  All silkscreen line widths are at least 0.15mm minimum width. Although the logo was designed in Inkscape, the design only uses line primitives so that it can be easily replicated within a PCB layout tool like KiCad if necessary.
 
-### Inkscape Export Settings
+## Inkscape Export Settings
 
 The images in this repository are exported as PNG at `1200px` width x `1200px` height with a DPI of `10160`.
 
