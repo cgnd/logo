@@ -10,7 +10,7 @@ The logo has been designed with the goal of being easily manufacturable with a t
 
 The images in this repository are exported as PNG at `1200px` width x `1200px` height with a DPI of `10160`.
 
-![image-20221119120444458](README.assets/image-20221119120444458.png)
+![image-20221119141936582](README.assets/image-20221119141936582.png)
 
 ## KiCad Logo Footprint
 
