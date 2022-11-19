@@ -1,6 +1,6 @@
 # Common Ground Electronics Logo
 
-<img src="cge_logo_square.png" alt="cge_logo_square" style="zoom:25%;" />
+<img src="cge_logo_square_1200x1200.png" alt="cge_logo_square" style="zoom:25%;" />
 
 ## Manufacturing Design Rules
 
