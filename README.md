@@ -1,6 +1,6 @@
 # Common Ground Electronics Logo
 
-<img src="cge_logo_square_1200x1200.png" alt="cge_logo_square" style="zoom:25%;" />
+![cge_logo_square_1200x1200](cge_logo_square_1200x1200.png)
 
 ## Manufacturing Design Rules
 
@@ -10,7 +10,7 @@ The logo has been designed with the goal of being easily manufacturable with a t
 
 The images in this repository are exported as PNG at `1200px` width x `1200px` height with a DPI of `10160`.
 
-<img src="README.assets/image-20221119120444458.png" alt="image-20221119120444458" style="zoom:50%;" />
+![image-20221119120444458](README.assets/image-20221119120444458.png)
 
 ## KiCad Logo Footprint
 
@@ -64,9 +64,9 @@ svg2mod --center --precision=0.01 --format=pretty --units=mm --name=REF** --valu
 
 **Note:** the default precision (`-p 1`) will result in poor output quality:
 
-<img src="README.assets/image-20221119112814794.png" alt="image-20221119112814794" style="zoom:50%;" />
+![image-20221119112814794](README.assets/image-20221119112814794.png)
 
 Specifying a higher precision `-p 0.01` gives better results:
 
-<img src="README.assets/image-20221119113304502.png" alt="image-20221119113304502" style="zoom:50%;" />
+![image-20221119113304502](README.assets/image-20221119113304502.png)
 
