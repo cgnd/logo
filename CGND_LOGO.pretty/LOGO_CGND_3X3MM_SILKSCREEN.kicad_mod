@@ -1,11 +1,11 @@
 (module REF** (layer F.Cu) (tedit 63794046)
   (attr virtual)
-  (descr "Converted using: svg2mod --center --precision=0.01 --format=pretty --units=mm '--name=REF**' --value=LOGO_CGE_3X3MM_SILKSCREEN --input-file=cge_logo_3x3mm.svg --output-file=CGE_LOGO.pretty/LOGO_CGE_3X3MM_SILKSCREEN.kicad_mod")
+  (descr "Converted using: svg2mod --center --precision=0.01 --format=pretty --units=mm '--name=REF**' --value=LOGO_CGND_3X3MM_SILKSCREEN --input-file=cgnd_logo_3x3mm.svg --output-file=CGND_LOGO.pretty/LOGO_CGND_3X3MM_SILKSCREEN.kicad_mod")
   (tags svg2mod)
   (fp_text reference REF** (at 0 -4.547908346002781) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3048)))
   )
-  (fp_text value LOGO_CGE_3X3MM_SILKSCREEN (at 0 4.547908346002781) (layer F.SilkS) hide
+  (fp_text value LOGO_CGND_3X3MM_SILKSCREEN (at 0 4.547908346002781) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3048)))
   )
   (fp_poly

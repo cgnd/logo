@@ -1,6 +1,6 @@
 # Common Ground Electronics Logo
 
-![cge_logo_square_1200x1200](cge_logo_square_1200x1200.png)
+![cgnd_logo_square_1200x1200](cgnd_logo_square_1200x1200.png)
 
 ## Manufacturing Design Rules
 
@@ -59,7 +59,7 @@ pipx install svg2mod
 Generate the KiCad logo footprint:
 
 ```bash
-svg2mod --center --precision=0.01 --format=pretty --units=mm --name=REF** --value=LOGO_CGE_3X3MM_SILKSCREEN --input-file=cge_logo_3x3mm.svg --output-file=CGE_LOGO.pretty/LOGO_CGE_3X3MM_SILKSCREEN.kicad_mod
+svg2mod --center --precision=0.01 --format=pretty --units=mm --name=REF** --value=LOGO_CGND_3X3MM_SILKSCREEN --input-file=cgnd_logo_3x3mm.svg --output-file=CGND_LOGO.pretty/LOGO_CGND_3X3MM_SILKSCREEN.kicad_mod
 ```
 
 **Note:** the default precision (`-p 1`) will result in poor output quality:
