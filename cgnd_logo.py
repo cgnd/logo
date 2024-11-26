@@ -31,9 +31,10 @@ def draw() -> svg.SVG:
                     (77, 228),
                     (211, 228),
                 ],
-                stroke="#EAFA5F",
-                fill="#EAFA5F",
-                stroke_width=0,
+                stroke="#000000",
+                fill="none",
+                stroke_width=5,
+                stroke_linejoin="round",
             ),
             svg.Polygon(
                 points=[
@@ -42,9 +43,10 @@ def draw() -> svg.SVG:
                     (343, 324),
                     (105, 324),
                 ],
-                stroke="#EAFA5F",
-                fill="#EAFA5F",
-                stroke_width=0,
+                stroke="#000000",
+                fill="none",
+                stroke_width=5,
+                stroke_linejoin="round",
             ),
             svg.Polygon(
                 points=[
@@ -53,9 +55,10 @@ def draw() -> svg.SVG:
                     (315, 394),
                     (133, 394),
                 ],
-                stroke="#EAFA5F",
-                fill="#EAFA5F",
-                stroke_width=0,
+                stroke="#000000",
+                fill="none",
+                stroke_width=5,
+                stroke_linejoin="round",
             ),
             # 2nd layer
             svg.Polygon(
@@ -65,9 +68,10 @@ def draw() -> svg.SVG:
                     (263, 228),
                     (237, 228),
                 ],
-                stroke="#FA6DE4",
-                fill="#FA6DE4",
-                stroke_width=0,
+                stroke="#000000",
+                fill="none",
+                stroke_width=5,
+                stroke_linejoin="round",
             ),
             svg.Polygon(
                 points=[
@@ -78,9 +82,10 @@ def draw() -> svg.SVG:
                     (397, 280),
                     (103, 280),
                 ],
-                stroke="#FA6DE4",
-                fill="#FA6DE4",
-                stroke_width=0,
+                stroke="#000000",
+                fill="none",
+                stroke_width=5,
+                stroke_linejoin="round",
             ),
             svg.Polygon(
                 points=[
@@ -91,9 +96,10 @@ def draw() -> svg.SVG:
                     (369, 350),
                     (131, 350),
                 ],
-                stroke="#FA6DE4",
-                fill="#FA6DE4",
-                stroke_width=0,
+                stroke="#000000",
+                fill="none",
+                stroke_width=5,
+                stroke_linejoin="round",
             ),
             svg.Polygon(
                 points=[
@@ -104,9 +110,10 @@ def draw() -> svg.SVG:
                     (341, 420),
                     (159, 420),
                 ],
-                stroke="#FA6DE4",
-                fill="#FA6DE4",
-                stroke_width=0,
+                stroke="#000000",
+                fill="none",
+                stroke_width=5,
+                stroke_linejoin="round",
             ),
             # 3rd layer
             svg.Polygon(
@@ -116,9 +123,10 @@ def draw() -> svg.SVG:
                     (289, 228),
                     (263, 228),
                 ],
-                stroke="#00F0CA",
-                fill="#00F0CA",
-                stroke_width=0,
+                stroke="#000000",
+                fill="none",
+                stroke_width=5,
+                stroke_linejoin="round",
             ),
             svg.Polygon(
                 points=[
@@ -131,9 +139,10 @@ def draw() -> svg.SVG:
                     (343, 298),
                     (121, 298),
                 ],
-                stroke="#00F0CA",
-                fill="#00F0CA",
-                stroke_width=0,
+                stroke="#000000",
+                fill="none",
+                stroke_width=5,
+                stroke_linejoin="round",
             ),
             svg.Polygon(
                 points=[
@@ -146,9 +155,10 @@ def draw() -> svg.SVG:
                     (315, 368),
                     (149, 368),
                 ],
-                stroke="#00F0CA",
-                fill="#00F0CA",
-                stroke_width=0,
+                stroke="#000000",
+                fill="none",
+                stroke_width=5,
+                stroke_linejoin="round",
             ),
             svg.Polygon(
                 points=[
@@ -159,9 +169,10 @@ def draw() -> svg.SVG:
                     (367, 446),
                     (185, 446),
                 ],
-                stroke="#00F0CA",
-                fill="#00F0CA",
-                stroke_width=0,
+                stroke="#000000",
+                fill="none",
+                stroke_width=5,
+                stroke_linejoin="round",
             ),
         ],
     )
